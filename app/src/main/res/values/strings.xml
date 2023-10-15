@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Zhandos_java1</string>
+    <string name="show">отображаемый текст</string>
+    <string name="edit">Введите текст</string>
+    <string name="show_text">Отобразить</string>
+</resources>
